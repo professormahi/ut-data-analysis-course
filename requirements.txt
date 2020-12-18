@@ -3,5 +3,6 @@ jupyter
 pandas
 matplotlib
 xlrd
+openpyxl
 jupyterlab
 ipympl
