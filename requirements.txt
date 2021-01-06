@@ -10,3 +10,6 @@ persiantools
 seaborn
 plotly
 bokeh
+advertools
+#persian_wordcloud
+wordcloud-fa
