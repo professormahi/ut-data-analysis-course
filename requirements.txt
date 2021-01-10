@@ -13,3 +13,5 @@ bokeh
 advertools
 #persian_wordcloud
 wordcloud-fa
+geopandas
+geoplot
